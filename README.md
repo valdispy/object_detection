@@ -16,7 +16,8 @@
 ![no_a_p](https://sun9-31.userapi.com/c205124/v205124698/176af/kHoDw98nOUI.jpg) 
 ![no_a_l](https://sun9-36.userapi.com/c205124/v205124698/176cd/HjUDF1QC_f4.jpg) 
 
-## - adam_optimiser
-![adam_p](https://sun9-31.userapi.com/c205124/v205124698/176af/kHoDw98nOUI.jpg) 
-![adam_l](https://sun9-36.userapi.com/c205124/v205124698/176cd/HjUDF1QC_f4.jpg)
+## - stochastic gradient descent (with_accumulation)
+![add_a_p](https://sun9-13.userapi.com/c205124/v205124698/176eb/MGsl6ad_idw.jpg) 
+![add_a_l](https://sun9-53.userapi.com/c205124/v205124698/17709/7eVtUwllc_g.jpg) 
+
 
