@@ -20,4 +20,8 @@
 ![add_a_p](https://sun9-13.userapi.com/c205124/v205124698/176eb/MGsl6ad_idw.jpg) 
 ![add_a_l](https://sun9-53.userapi.com/c205124/v205124698/17709/7eVtUwllc_g.jpg) 
 
+## - RMSProp
+![rms_p](https://sun9-58.userapi.com/c205124/v205124698/1771b/xmqlY-NyBJQ.jpg) 
+![rms_l](https://sun9-41.userapi.com/c205124/v205124698/1772e/upT_5ZL0lWI.jpg) 
 
+## Adam (shown higher)
