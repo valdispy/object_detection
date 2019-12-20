@@ -10,3 +10,8 @@
 ## - constant_learning_rate (adam_optimizer)
 ![const_p](https://sun9-3.userapi.com/c857424/v857424698/12deab/a69v_dbzvCw.jpg) 
 ![const_l](https://sun9-6.userapi.com/c857424/v857424698/12deb5/9DWzr5xKmvM.jpg) 
+
+# Optimizer
+## - stochastic gradient descent (no_accumulation)
+![no_a_p](https://sun9-31.userapi.com/c205124/v205124698/176af/kHoDw98nOUI.jpg) 
+![no_a_l](https://sun9-36.userapi.com/c205124/v205124698/176cd/HjUDF1QC_f4.jpg) 
